@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SPA</string>
+    <string name="default_number">10</string>
+    <string name="nav">nav</string>
+    <string name="main">main</string>
+    <string name="route">route</string>
+    <string name="show_route">算路</string>
+</resources>
